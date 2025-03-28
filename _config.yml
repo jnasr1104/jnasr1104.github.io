@@ -1,1 +1,7 @@
+# Site settings
+title: "My Awesome Site"
+description: "A brief description of my site."
+url: "https://jnasr1104.github.io" # Your site's URL
+
+# Jekyll settingg
 theme: jekyll-theme-slate
