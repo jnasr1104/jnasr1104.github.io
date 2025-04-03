@@ -8,6 +8,8 @@ Link to [Website](https://jnasr1104.github.io/).
 This code review involves analyzing my projects to identify strengths and areas for improvement in structure, logic, security, efficiency, and documentation. It ensures the code follows best practices and prepares it for enhancements or real-world use.
 Link to [Code Review Video](https://youtu.be/zfMDSn8PBYU).
 
-### Encryption/Decryption Program
+### Virtual Workspace – A Real-Time 3D Scene Built with OpenGL
+This project is a real-time 3D rendering of a bedroom desk scene built using C++, OpenGL, and GLSL. It features interactive camera controls, multiple lighting types, and realistic textures using color, normal, and roughness maps. The code was modularized and refactored to improve performance, readability, and visual fidelity through physically-based rendering techniques.
+
 
 
