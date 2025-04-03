@@ -10,10 +10,10 @@ Link to [Code Review Video](https://youtu.be/zfMDSn8PBYU).
 
 ### Virtual Workspace – A Real-Time 3D Scene Built with OpenGL
 This project is a real-time 3D rendering of a bedroom desk scene built using C++, OpenGL, and GLSL. It features interactive camera controls, multiple lighting types, and realistic textures using color, normal, and roughness maps. The code was modularized and refactored to improve performance, readability, and visual fidelity through physically-based rendering techniques. Link to [Project Files](https://github.com/jnasr1104/jnasr1104.github.io/tree/main/7-1%20FINAL%20PROJECT%20ENHANCED)
+Link to [Project Demo Video](https://youtu.be/cfuyO1AYSCE)
 
+![Screenshot 2025-04-03 130813](https://github.com/user-attachments/assets/80d74471-5e26-4882-86a3-9865ead429ee)
 
-
-https://github.com/user-attachments/assets/83d1383c-c76e-4445-9048-3a147b9e6aa4
 
 
 
