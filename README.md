@@ -14,6 +14,8 @@ Link to [Project Demo Video](https://youtu.be/cfuyO1AYSCE)
 
 ![Screenshot 2025-04-03 130813](https://github.com/user-attachments/assets/80d74471-5e26-4882-86a3-9865ead429ee)
 
-
+### Encryption-Decryption Project
+This C++ project is a console-based application that performs symmetric encryption and decryption using the XOR bitwise operation. It reads input from a text file, encrypts the content using a user-defined key, saves the encrypted result to a new file, then decrypts that encrypted data and saves it again for verification. To ensure the accuracy of the process, the program includes a file comparison feature that checks if the decrypted output exactly matches the original input.
+Link to [Project Files](
 
 
