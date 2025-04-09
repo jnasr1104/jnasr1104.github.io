@@ -18,4 +18,5 @@ Link to [Project Demo Video](https://youtu.be/cfuyO1AYSCE)
 This C++ project is a console-based application that performs symmetric encryption and decryption using the XOR bitwise operation. It reads input from a text file, encrypts the content using a user-defined key, saves the encrypted result to a new file, then decrypts that encrypted data and saves it again for verification. To ensure the accuracy of the process, the program includes a file comparison feature that checks if the decrypted output exactly matches the original input.
 Link to [Project Files](https://github.com/jnasr1104/jnasr1104.github.io/tree/main/ENHANCED%20ENCRYPTION%20ACTIVITY)
 
-
+Screenshot shows console window when program is ran successfully, input file is enrypted, encrypted file is decrypted, original file and decrpyted file are compared.
+![Screenshot 2025-04-09 113233](https://github.com/user-attachments/assets/acf9591b-8ec6-4300-9776-fab2dd9a9fef)
