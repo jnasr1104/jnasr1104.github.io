@@ -1,8 +1,4 @@
-# Site settings
-title: "Welcome to Jason Nasr's Portfolio!"
-
-
-
-
-# Jekyll settings
-theme: jekyll-theme-Slate
+theme: jekyll-theme-merlot
+url: jnasr1104@github.io
+title: Welcome to Jason Nasr's Portfolio !
+description: This is my software engineering portfolio!
