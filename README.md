@@ -1,7 +1,7 @@
 
 # Introduction
 This space showcases my enhanced software engineering projects, refined through detailed code reviews and thoughtful improvements. Each project reflects my growth in writing clean, modular, and well-documented code, with a focus on structure, functionality, and user experience. Dive in to explore the updates I've made and how each enhancement demonstrates my commitment to writing professional, maintainable, and efficient software.
-Link to [Website](https://jnasr1104.github.io/).
+Link to [GITHUB](https://github.com/jnasr1104/jnasr1104.github.io).
 
 ## Professional Self-Assessment
 My name is Jason Nasr, and I am a dedicated Computer Science student with a strong foundation in software engineering, full-stack development, and systems thinking. My academic and project-based work has consistently demonstrated my ability to develop practical and innovative solutions, leveraging both my technical and analytical skills. This self-assessment outlines my growth as a developer and highlights how the enhancements made to my capstone artifacts reflect my technical proficiency, problem-solving mindset, and commitment to continuous improvement.
