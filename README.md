@@ -34,6 +34,7 @@ Expanded the planes to improve the view and visibility of the scene
 Added more thorough comments on MainCode.cpp, ViewManager.cpp, and SceneManager.cpp
 Made code more organized and easier to read
 Got rid of unnecessary code while keeping same functionality (ViewManager.cpp cut down to 166 lines from approximately 300).
+
 Link to [ENHANCED Project Files](https://github.com/jnasr1104/jnasr1104.github.io/tree/main/7-1%20FINAL%20PROJECT%20ENHANCED). Link to [ORIGINAL Project Files](https://github.com/jnasr1104/jnasr1104.github.io/tree/main/ORIGINAL%207-1FINAL%20PROJECT).
 Link to [Project Demo Video](https://youtu.be/cfuyO1AYSCE)
 
@@ -56,6 +57,7 @@ Screenshot shows console window when program is ran successfully, input file is 
 This project is a data-driven dashboard application that integrates a MongoDB database with an interactive frontend built using Dash and Plotly. It enables users to manage animal shelter records through create, read, update, and delete (CRUD) operations, while visualizing the data with sortable tables, breed-based pie charts, and interactive geolocation maps. As part of the enhancement process, I significantly improved the backend CRUD module by modernizing it with insert_one, update_many, and delete_many methods, adding robust input validation, and implementing structured exception handling to ensure data integrity and operational reliability. I also transitioned the system from a cloud-hosted MongoDB instance to a locally hosted setup, making it more practical for real-world deployment and testing.
 
 On the frontend, I enhanced the dashboard’s layout and interactivity, introducing error-safe filtering logic, responsive UI elements, and modular callbacks that dynamically update the displayed data. These changes ensure a seamless user experience when searching for animals suited for specific rescue operations. Through this project, I demonstrated skills in full-stack software development, including database integration, secure backend logic, responsive frontend design, and data visualization. The enhancements directly align with course outcomes such as designing scalable, maintainable software, implementing data-centric systems, and applying real-world problem-solving strategies using industry-standard tools. This project showcases my ability to build end-to-end applications that are robust, user-friendly, and professionally structured.
+
 Link to [ENHANCED Project Files](https://github.com/jnasr1104/jnasr1104.github.io/tree/main/ENHANCED%20CRUD%20PROJECT). Link to [ORIGINAL Project Files](https://github.com/jnasr1104/jnasr1104.github.io/tree/main/ORIGINAL%20cs340Project2/cs340Project2).
 Example of CRUD Dashboard:
 
