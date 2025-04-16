@@ -20,3 +20,6 @@ Link to [Project Files](https://github.com/jnasr1104/jnasr1104.github.io/tree/ma
 
 Screenshot shows console window when program is ran successfully, input file is enrypted, encrypted file is decrypted, original file and decrpyted file are compared.
 ![Screenshot 2025-04-09 113233](https://github.com/user-attachments/assets/acf9591b-8ec6-4300-9776-fab2dd9a9fef)
+
+### Python CRUD Project
+This project is a web-based dashboard application that connects to a MongoDB database to manage animal shelter records. It allows users to create, read, update, and delete animal data through a Python-powered backend, while the frontend—built using Dash and Plotly—displays interactive tables, charts, and geolocation maps. The system is designed to help organizations quickly filter and visualize adoptable animals based on specific rescue mission needs.
