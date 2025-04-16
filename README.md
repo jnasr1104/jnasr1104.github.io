@@ -20,8 +20,21 @@ This code review involves analyzing my projects to identify strengths and areas 
 Link to [Code Review Video](https://youtu.be/zfMDSn8PBYU).
 
 ### Virtual Workspace – A Real-Time 3D Scene Built with OpenGL
-#### Narrative
-This project is a real-time 3D rendering of a bedroom desk scene built using C++, OpenGL, and GLSL. It features interactive camera controls, multiple lighting types, and realistic textures using color, normal, and roughness maps. The code was modularized and refactored to improve performance, readability, and visual fidelity through physically-based rendering techniques. Link to [ENHANCED Project Files](https://github.com/jnasr1104/jnasr1104.github.io/tree/main/7-1%20FINAL%20PROJECT%20ENHANCED). Link to [ORIGINAL Project Files](https://github.com/jnasr1104/jnasr1104.github.io/tree/main/ORIGINAL%207-1FINAL%20PROJECT).
+### Narrative
+This artifact is a 3D rendered scene made from CPP and OpenGL graphics that directly resembles my at home desk. It was created in June of 2024.
+This enhanced 3D scene project is going to be included in my ePortfolio as a key artifact that demonstrates my technical abilities in software development, graphics programming, and software engineering principles. I selected this project because it is a comprehensive representation of my ability to work with modern OpenGL, apply modular code architecture, and implement real-time rendering techniques such as lighting, material systems, and texture mapping.
+I successfully met the course outcomes I planned to achieve through this enhancement. Specifically, this project allowed me to demonstrate how I applied modular design practices by refactoring large and tightly coupled code into organized, maintainable components. This included breaking down monolithic rendering logic, encapsulating global variables, and improving documentation throughout the codebase.
+The process of enhancing and modifying this 3D scene artifact was both challenging and rewarding. It allowed me to revisit my earlier work with a more critical and experienced perspective, applying new skills and insights I’ve gained throughout the course. One of the most valuable aspects of this process was learning how to refactor and improve an existing codebase without disrupting its core functionality. I had to carefully identify areas of the code that could be modularized, reorganized, or improved for better readability, performance, and maintainability. This experience reinforced the importance of clean code structure and consistent commenting, especially when working on larger software systems.
+One of the biggest challenges I encountered was resolving texture loading issues and ensuring that each object was properly linked to its corresponding material and shader data. Troubleshooting these problems required careful debugging, testing, and fine-tuning the structure of the shader and texture-loading functions. However, overcoming these challenges helped me become more confident in my problem-solving abilities and my understanding of low-level graphics programming.
+
+Enhancements done include:
+Realistic textures on desk, wall, keyboard, mouse, bottle etc.
+Implemented 4 legs to the desk matching the Oak wood texture of the desk
+Expanded the planes to improve the view and visibility of the scene
+Added more thorough comments on MainCode.cpp, ViewManager.cpp, and SceneManager.cpp
+Made code more organized and easier to read
+Got rid of unnecessary code while keeping same functionality (ViewManager.cpp cut down to 166 lines from approximately 300).
+Link to [ENHANCED Project Files](https://github.com/jnasr1104/jnasr1104.github.io/tree/main/7-1%20FINAL%20PROJECT%20ENHANCED). Link to [ORIGINAL Project Files](https://github.com/jnasr1104/jnasr1104.github.io/tree/main/ORIGINAL%207-1FINAL%20PROJECT).
 Link to [Project Demo Video](https://youtu.be/cfuyO1AYSCE)
 
 ![Screenshot 2025-04-03 130813](https://github.com/user-attachments/assets/80d74471-5e26-4882-86a3-9865ead429ee)
