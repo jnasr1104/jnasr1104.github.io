@@ -24,3 +24,6 @@ Screenshot shows console window when program is ran successfully, input file is 
 ### Python CRUD Project
 This project is a web-based dashboard application that connects to a MongoDB database to manage animal shelter records. It allows users to create, read, update, and delete animal data through a Python-powered backend, while the frontend—built using Dash and Plotly—displays interactive tables, charts, and geolocation maps. The system is designed to help organizations quickly filter and visualize adoptable animals based on specific rescue mission needs.
 Link to [ENHANCED Project Files](https://github.com/jnasr1104/jnasr1104.github.io/tree/main/ENHANCED%20CRUD%20PROJECT). Link to [ORIGINAL Project Files](https://github.com/jnasr1104/jnasr1104.github.io/tree/main/ORIGINAL%20cs340Project2/cs340Project2).
+Example of CRUD Dashboard:
+
+![Screenshot 2025-04-16 122644](https://github.com/user-attachments/assets/c4c92f5f-c4dd-487a-9a80-fda384e69b1a)
