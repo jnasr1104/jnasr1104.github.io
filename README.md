@@ -4,7 +4,15 @@ This space showcases my enhanced software engineering projects, refined through 
 Link to [Website](https://jnasr1104.github.io/).
 
 ## Professional Self-Assessment
+My name is Jason Nasr, and I am a dedicated Computer Science student with a strong foundation in software engineering, full-stack development, and systems thinking. My academic and project-based work has consistently demonstrated my ability to develop practical and innovative solutions, leveraging both my technical and analytical skills. This self-assessment outlines my growth as a developer and highlights how the enhancements made to my capstone artifacts reflect my technical proficiency, problem-solving mindset, and commitment to continuous improvement.
 
+Throughout my portfolio, I have showcased three enhanced artifacts that reflect a range of technical competencies: an interactive CRUD web application using Python and MongoDB, an encryption/decryption program in C++ focused on file handling and security, and a 3D computational graphics scene developed in C++ with OpenGL. Each project has been revisited with a focus on performance, readability, maintainability, and visual or functional improvements. These enhancements allowed me to not only apply feedback from code reviews but also adopt best practices in areas such as modular design, error handling, defensive programming, and user experience.
+
+In my CRUD dashboard project, I reinforced my backend development skills by optimizing database interactions, integrating filtering features, and improving data validation. My encryption program reflects my understanding of algorithms and secure file handling, enhanced with robust commenting, better modular structure, and error-checking. My 3D graphics scene demonstrates my growth in low-level rendering, shader optimization, and object-oriented design, with a significant focus on improving both the code structure and visual fidelity of the scene.
+
+These projects serve as quantifiable proof of my ability to independently identify opportunities for improvement, implement thoughtful enhancements, and deliver high-quality code. They also reflect my proficiency in Python, C++, OpenGL, database management, and modern software engineering principles. I selected these artifacts for my ePortfolio because they each represent a different aspect of software development—from back-end systems to user-facing experiences—and together, they showcase my versatility and depth as a developer.
+
+My ePortfolio is not just a collection of projects—it is a curated reflection of my journey as a software engineer. It communicates my technical capabilities, growth mindset, and ability to deliver solutions that are both functional and maintainable. As I continue to evolve professionally, I aim to build upon this foundation with a focus on cloud technologies, scalable systems, and emerging trends in AI and cybersecurity.
 
 ## Projects
 ### Code Review
